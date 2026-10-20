@@ -1,0 +1,6 @@
+streamlit
+fitz
+pymupdf
+anthropic
+pdf2image
+pillow
