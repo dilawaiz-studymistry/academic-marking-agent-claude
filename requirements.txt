@@ -1,6 +1,4 @@
 streamlit
-fitz
-pymupdf
+PyMuPDF
 anthropic
-pdf2image
 pillow
